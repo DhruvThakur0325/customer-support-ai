@@ -16,6 +16,30 @@ A full-stack customer support ticket management application built with Next.js, 
 
 
 
+\## Screenshots
+
+
+
+\### Dashboard
+
+!\[Customer Support AI Dashboard](screenshots/dashboard.png)
+
+
+
+\### Create Ticket
+
+!\[Create Ticket Form](screenshots/create-ticket.png)
+
+
+
+\### Ticket Status
+
+!\[Ticket Status](screenshots/ticket-status.png)
+
+
+
+
+
 \## Features
 
 
