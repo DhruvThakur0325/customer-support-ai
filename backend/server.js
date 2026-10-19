@@ -9,7 +9,9 @@ const Ticket = require("./models/Ticket");
 const app = express();
 const PORT = process.env.PORT || 5000;
 
-app.use(cors());
+app.use(cors({
+  origin: "https://customer-support-6pu7z148j-dhruv-s-portfolio.vercel.app/"
+}));
 app.use(express.json());
 
 // Home route
